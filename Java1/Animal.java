@@ -6,7 +6,7 @@ public class Animal {
     public static void doThings() {
             // Try/Catch function
             try {
-                int shops = 5;
+                int shops = 10;
 
                 if (shops == 10)
                 System.out.println("We made it");
